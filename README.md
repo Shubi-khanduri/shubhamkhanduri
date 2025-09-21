@@ -91,7 +91,7 @@
 
 ## 📫 Connect with Me
 - 📧 Email: [shubhamkhanduri74@gmail.com](mailto:shubhamkhanduri74@gmail.com)  
-- 💼 LinkedIn: [Shubham Khanduri]([https://www.linkedin.com/in/shubham-khanduri](https://www.linkedin.com/in/shubham-khanduri-a98a75207?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+- 💼 LinkedIn: [Shubham Khanduri](https://www.linkedin.com/in/shubham-khanduri-a98a75207/)  
 - 🌐 Portfolio: [GitHub Profile](https://github.com/shubhamkhanduri)  
 
 ---
