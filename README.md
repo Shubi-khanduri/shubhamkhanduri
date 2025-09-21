@@ -82,8 +82,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamkhanduri&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkhanduri&layout=compact&theme=radical)  
+![](https://github-readme-stats.vercel.app/api?username=Shubi-khanduri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Shubi-khanduri&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubi-khanduri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
