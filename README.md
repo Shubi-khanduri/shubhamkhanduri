@@ -81,16 +81,37 @@
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Shubi-khanduri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shubi-khanduri&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubi-khanduri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🌌 Shubham’s Cosmic GitHub Stats  
 
-![TotalSTARDON](https://img.shields.io/badge/TotalSTARDON-3.5k⭐-purple?style=for-the-badge)
-![Comet PRs](https://img.shields.io/badge/CometPRs-289☄️-blue?style=for-the-badge)
-![Galactic Commits](https://img.shields.io/badge/GalacticCommits-12k🚀-green?style=for-the-badge)
+✨ Exploring the GitHub universe, one commit at a time...  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamkhanduri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=58a6ff&icon_color=f0f6fc&text_color=ffffff" alt="Shubham's GitHub stats" />
+</p>
 
 ---
+
+### 🪐 My Cosmic Contributions  
+
+- **TotalSTARDON ⭐:** `{{TOTAL_STARS}}`  
+- **Comet PRs ☄️:** `{{TOTAL_PRS}}`  
+- **Galactic Commits 🚀:** `{{TOTAL_COMMITS}}`  
+- **Orbital Issues 🛰️:** `{{TOTAL_ISSUES}}`  
+- **Blackhole Forks 🌌:** `{{TOTAL_FORKS}}`  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamkhanduri&theme=tokyonight&hide_border=true&background=000000" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkhanduri&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=58a6ff&text_color=ffffff" alt="Top Langs" />
+</p>
+
+---
+
+🌠 *“Turning commits into galaxies, one push at a time.”*  
 
 ## 📫 Connect with Me
 - 📧 Email: [shubhamkhanduri74@gmail.com](mailto:shubhamkhanduri74@gmail.com)  
