@@ -86,6 +86,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Shubi-khanduri&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubi-khanduri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![TotalSTARDON](https://img.shields.io/badge/TotalSTARDON-3.5k⭐-purple?style=for-the-badge)
+![Comet PRs](https://img.shields.io/badge/CometPRs-289☄️-blue?style=for-the-badge)
+![Galactic Commits](https://img.shields.io/badge/GalacticCommits-12k🚀-green?style=for-the-badge)
+
 ---
 
 ## 📫 Connect with Me
